@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Traverser - Full Stack Todo App
 
 ## Overview
@@ -115,3 +116,6 @@ task-traverser/
 Contributions to Task Traverser are welcome! Feel free to open issues, submit pull requests, or suggest improvements.
 
 Happy task traversing! 🚀📝
+=======
+# Task-Traverser
+>>>>>>> 35e8e6d66de02f5ff6d320af0153c48d4340d0d8
